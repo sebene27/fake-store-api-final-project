@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fake-store-api-final-project/static/css/main.c6aab294.chunk.css",
+    "main.js": "/fake-store-api-final-project/static/js/main.e277dd43.chunk.js",
+    "main.js.map": "/fake-store-api-final-project/static/js/main.e277dd43.chunk.js.map",
+    "runtime-main.js": "/fake-store-api-final-project/static/js/runtime-main.aa518a7c.js",
+    "runtime-main.js.map": "/fake-store-api-final-project/static/js/runtime-main.aa518a7c.js.map",
+    "static/css/2.0688acd8.chunk.css": "/fake-store-api-final-project/static/css/2.0688acd8.chunk.css",
+    "static/js/2.55aa7d26.chunk.js": "/fake-store-api-final-project/static/js/2.55aa7d26.chunk.js",
+    "static/js/2.55aa7d26.chunk.js.map": "/fake-store-api-final-project/static/js/2.55aa7d26.chunk.js.map",
+    "index.html": "/fake-store-api-final-project/index.html",
+    "static/css/2.0688acd8.chunk.css.map": "/fake-store-api-final-project/static/css/2.0688acd8.chunk.css.map",
+    "static/css/main.c6aab294.chunk.css.map": "/fake-store-api-final-project/static/css/main.c6aab294.chunk.css.map",
+    "static/js/2.55aa7d26.chunk.js.LICENSE.txt": "/fake-store-api-final-project/static/js/2.55aa7d26.chunk.js.LICENSE.txt",
+    "static/media/fake-store-api-logo.450fdfd3.png": "/fake-store-api-final-project/static/media/fake-store-api-logo.450fdfd3.png",
+    "static/media/favicon.40629018.ico": "/fake-store-api-final-project/static/media/favicon.40629018.ico"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa518a7c.js",
+    "static/css/2.0688acd8.chunk.css",
+    "static/js/2.55aa7d26.chunk.js",
+    "static/css/main.c6aab294.chunk.css",
+    "static/js/main.e277dd43.chunk.js"
+  ]
+}
